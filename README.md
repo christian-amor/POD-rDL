@@ -26,3 +26,7 @@ This demo showcases the prediction of POD coefficients pre-computed from the vel
 
 A pretrained model is included in the `model/` directory. The parameters of the models are already set in the `config` class
 
+## Publication
+
+Amor, C., Corrochano, A., Rosti, M. E., & Le Clainche, S. (2026). Reduced-order modeling of a viscoelastic turbulent jet with hybrid machine learning models. *J. Phys.: Conf. Ser.* **3230**, 012001. https://doi.org/10.1088/1742-6596/3230/1/012001.
+
